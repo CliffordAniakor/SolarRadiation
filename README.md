@@ -11,3 +11,7 @@ These datasets are meteorological data from the Hawaii Space Exploration Analog 
 ## Wrangling Effort
 Minimal wrangling was performed on the dataset.
 ## Result
+![image](https://user-images.githubusercontent.com/85615800/192639411-6ca8c245-b4f6-4c4c-909b-7e08080f4103.png)
+## Author:
+**Clifford Okwudili Aniakor**
+**13th September 2022**
